@@ -1,0 +1,1 @@
+IPYTHON=1 IPYTHON_OPTS="notebook" PYSPARK\_PATH\pyspark
