@@ -19,3 +19,4 @@ project/plugins/project/
 .DS_Store
 *.csv
 ml-100k
+*.ipynb_checkpoints/
